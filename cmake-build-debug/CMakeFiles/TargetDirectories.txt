@@ -1,0 +1,3 @@
+C:/Users/Blind/CLionProjects/mpi_task_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Blind/CLionProjects/mpi_task_2/cmake-build-debug/CMakeFiles/mpi_task_2.dir
+C:/Users/Blind/CLionProjects/mpi_task_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

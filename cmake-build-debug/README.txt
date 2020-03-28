@@ -1,0 +1,1 @@
+Run with MPIEXEC -np <n> <program_name> <iter_number> <root_rank>
